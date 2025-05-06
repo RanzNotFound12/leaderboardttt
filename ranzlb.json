@@ -4,14 +4,22 @@
     "score": 6,
     "playCount": 1,
     "mostPlayedMode": "Solo",
-    "win": null
+    "win": 2
   },
   {
     "name": "Yanz",
     "score": 2
+    "playCount": 1,
+    "mostPlayedMode": "Solo",
+    "win": 2
+
   },
   {
     "name": "Irsya",
     "score": 2
+    "playCount": 1,
+    "mostPlayedMode": "Solo",
+    "win": 2
+
   }
 ]

@@ -1,25 +1,22 @@
 [
   {
     "name": "Ranz",
-    "score": 6,
-    "playCount": 1,
+    "score": 3
+  },
+  {
+    "name": "tes",
+    "score": 3,
+    "win": 1,
+    "lose": 0,
     "mostPlayedMode": "Solo",
-    "win": 2
+    "playCount": 1
   },
   {
     "name": "Yanz",
     "score": 2
-    "playCount": 1,
-    "mostPlayedMode": "Solo",
-    "win": 2
-
   },
   {
     "name": "Irsya",
     "score": 2
-    "playCount": 1,
-    "mostPlayedMode": "Solo",
-    "win": 2
-
   }
 ]

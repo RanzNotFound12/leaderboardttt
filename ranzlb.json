@@ -1,10 +1,17 @@
 [
   {
-    "name": "RanzDev",
-    "score": 3,
-    "win": 1,
-    "lose": 0,
+    "name": "Ranz",
+    "score": 6,
+    "playCount": 1,
     "mostPlayedMode": "Solo",
-    "playCount": 1
+    "win": null
+  },
+  {
+    "name": "Yanz",
+    "score": 2
+  },
+  {
+    "name": "Irsya",
+    "score": 2
   }
 ]

@@ -17,10 +17,10 @@
   },
   {
     "name": "Ranz",
-    "score": 2,
-    "win": 1,
-    "lose": 1,
-    "mostPlayedMode": "Solo",
-    "playCount": 2
+    "score": 999999,
+    "win": 99999,
+    "lose": -9,
+    "mostPlayedMode": "Solos",
+    "playCount": 99999
   }
 ]

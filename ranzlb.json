@@ -14,5 +14,13 @@
     "lose": 1,
     "mostPlayedMode": "Solo",
     "playCount": 2
+  },
+  {
+    "name": "Kontol",
+    "score": 1,
+    "win": 0,
+    "lose": 0,
+    "mostPlayedMode": "Solo",
+    "playCount": 1
   }
 ]
